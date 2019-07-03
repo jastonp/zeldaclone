@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "The Legend of Zelda",
+"productVersion": "0.1",
+"dataUrl": "b2f77e9fedd3c5bf06ad9e618def220d.unityweb",
+"wasmCodeUrl": "bdab29dd95f1e7ff28397c49dfeadcd4.unityweb",
+"wasmFrameworkUrl": "51bd2cd741552cde5fc8185d392e955f.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.6f1"
+}
